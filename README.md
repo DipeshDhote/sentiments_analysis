@@ -40,5 +40,5 @@ Alternatively, you can use any dataset of your choice by following the format:
 - **Text**: The actual review text.
 - **Label**: The sentiment label (0 for negative, 1 for neutral, 2 for positive).
 
-## Project Structure
+
 
